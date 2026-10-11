@@ -9,6 +9,7 @@ public class Sum_N_Numbers {
                 sum += i;
             }
             System.out.println("Sum of first N number:" + sum);
+            sc.close();
         }
     }
 }
